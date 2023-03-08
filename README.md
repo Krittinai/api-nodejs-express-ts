@@ -13,9 +13,10 @@ install :
 npm i -g typescript ts-node ts-node-dev 
 npm install
 ```
-edit config :
+edit config database :
 ```
-edit file src\config\config.json 
+.env
+
 ```
 run : 
 ```
