@@ -19,6 +19,6 @@ edit config database :
 ```
 run : 
 ```
-npm start 
-npm test  
+npm run start 
+npm run dev 
 ```
